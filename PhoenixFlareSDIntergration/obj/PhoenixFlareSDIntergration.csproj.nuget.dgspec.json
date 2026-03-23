@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj": {}
+    "C:\\Users\\sento\\RiderProjects\\PhoenixFlareStreamDeck\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj": {}
   },
   "projects": {
-    "C:\\Work\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj": {
+    "C:\\Users\\sento\\RiderProjects\\PhoenixFlareStreamDeck\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj",
+        "projectUniqueName": "C:\\Users\\sento\\RiderProjects\\PhoenixFlareStreamDeck\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj",
         "projectName": "PhoenixFlareSDIntergration",
-        "projectPath": "C:\\Work\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj",
-        "packagesPath": "C:\\Users\\CharlesShaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration\\obj\\",
+        "projectPath": "C:\\Users\\sento\\RiderProjects\\PhoenixFlareStreamDeck\\PhoenixFlareSDIntergration\\PhoenixFlareSDIntergration.csproj",
+        "packagesPath": "C:\\Users\\sento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sento\\RiderProjects\\PhoenixFlareStreamDeck\\PhoenixFlareSDIntergration\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CharlesShaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sento\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -54,7 +48,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.0, )",
+              "version": "[10.0.4, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
@@ -84,15 +78,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[10.0.0, 10.0.0]"
+              "version": "[10.0.4, 10.0.4]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[10.0.0, 10.0.0]"
+              "version": "[10.0.4, 10.0.4]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[10.0.0, 10.0.0]"
+              "version": "[10.0.4, 10.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -100,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -110,9 +110,10 @@ class Program
 			Connection.OnSendToPlugin -= Connection_OnSendToPlugin;
 		}
 
-		// Required boilerplate
+		// Update to prevent any default behaviours
 		public override void KeyReleased(KeyPayload payload)
 		{
+			RequestStatus();
 		}
 
 		public override void OnTick()
