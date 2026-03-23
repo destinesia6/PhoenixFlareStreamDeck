@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixFlareSDIntergration", "PhoenixFlareSDIntergration\PhoenixFlareSDIntergration.csproj", "{EDC2B097-0D39-4750-BBD8-5743D06147B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC2B097-0D39-4750-BBD8-5743D06147B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC2B097-0D39-4750-BBD8-5743D06147B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC2B097-0D39-4750-BBD8-5743D06147B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC2B097-0D39-4750-BBD8-5743D06147B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

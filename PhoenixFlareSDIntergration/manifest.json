@@ -1,0 +1,40 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actionIcon",
+      "Name": "Tuya Toggle",
+      "States": [
+        {
+          "Image": "images/lightOff",
+          "Title": "Off"
+        },
+        {
+          "Image": "images/lightOn",
+          "Title": "On"
+        }
+      ],
+      "UUID": "com.phoenix.tuya.action"
+    }
+  ],
+  "PropertyInspectorPath": "ui/property-inspector.html",
+  "Author": "Phoenix",
+  "Description": "Tuya Bridge",
+  "Name": "Phoenix Tuya",
+  "Icon": "images/actionIcon",
+  "URL": "https://github.com",
+  "Version": "1.0",
+  "SDKVersion": 2,
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "UUID": "com.phoenix.tuya",
+  "Category": "PhoenixFlare",
+  "CategoryIcon": "images/actionIcon",
+  "CodePath": "PhoenixFlareSDIntergration.exe",
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
