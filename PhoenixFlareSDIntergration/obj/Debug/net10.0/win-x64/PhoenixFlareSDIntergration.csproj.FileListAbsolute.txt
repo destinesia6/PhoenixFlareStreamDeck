@@ -224,3 +224,4 @@ C:\Work\PhoenixFlareSDIntergration\PhoenixFlareSDIntergration\bin\Debug\net10.0\
 C:\Work\PhoenixFlareSDIntergration\PhoenixFlareSDIntergration\bin\Debug\net10.0\win-x64\images\lightOff.png
 C:\Work\PhoenixFlareSDIntergration\PhoenixFlareSDIntergration\bin\Debug\net10.0\win-x64\images\lightOn.png
 C:\Work\PhoenixFlareSDIntergration\PhoenixFlareSDIntergration\bin\Debug\net10.0\win-x64\images\actionIcon.png
+C:\Work\PhoenixFlareSDIntergration\PhoenixFlareSDIntergration\obj\Debug\net10.0\win-x64\PhoenixFlareSDIntergration.sourcelink.json

@@ -1,9 +1,6 @@
 ﻿using BarRaider.SdTools;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Websocket.Client;
-using System;
-using System.Threading.Tasks;
 
 namespace PhoenixFlareSDIntergration;
 
@@ -113,7 +110,11 @@ class Program
 		// Update to prevent any default behaviours
 		public override void KeyReleased(KeyPayload payload)
 		{
-			RequestStatus();
+			Task.Run(async () =>
+			{
+				await Task.Delay(450);
+				RequestStatus();
+			});
 		}
 
 		public override void OnTick()
