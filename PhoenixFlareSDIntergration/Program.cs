@@ -112,7 +112,7 @@ class Program
 		{
 			Task.Run(async () =>
 			{
-				await Task.Delay(450);
+				await Task.Delay(1350);
 				RequestStatus();
 			});
 		}

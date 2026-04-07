@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoenixFlareSDIntergration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c987cce6a85df8b643f8fea401b1773def0aaead")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfe9b5e6cc15c0044fcf6a080cf89d5ddb081bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoenixFlareSDIntergration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoenixFlareSDIntergration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
